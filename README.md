@@ -8,7 +8,7 @@ Check out the live version of the Code Editor here: [CodePencil - Live](www.code
 
 ## Tools
 
-The Code Editor project is built using the following tools:
+The CodePencil project is built using the following tools:
 
 - ReactJS: A JavaScript library for building user interfaces.
 - Functional Components: A type of component in React that doesn't have state or lifecycle methods.
@@ -43,7 +43,7 @@ To create a build of this project, run
 
 ## Features
 
-The Code Editor project has the following features:
+The CodePencil project has the following features:
 
 - Syntax highlighting for different programming languages, including HTML, CSS, JavaScript, and more.
 - Real-time preview of the code snippets being edited.
@@ -54,7 +54,7 @@ The Code Editor project has the following features:
 
 ## Usage
 
-To use the Code Editor project, follow these steps:
+To use the CodePencil project, follow these steps:
 
 - Open the editor in the browser by navigating to `http://localhost:3000`.
 - Write or paste your code snippet into the editor.
@@ -65,4 +65,4 @@ To use the Code Editor project, follow these steps:
 
 ## Conclusion
 
-The Code Editor project is a simple but powerful online code editor built with ReactJS and CodeMirror. It supports different programming languages, syntax highlighting, themes, and real-time preview of code snippets. It also allows users to save and load their code snippets locally in the browser using the localStorage API. The project can be further improved by adding more programming languages and custom themes, as well as integrating with cloud storage services like Google Drive or Dropbox.
+The CodePencil project is a simple but powerful online code editor built with ReactJS and CodeMirror. It supports different programming languages, syntax highlighting, themes, and real-time preview of code snippets. It also allows users to save and load their code snippets locally in the browser using the localStorage API. The project can be further improved by adding more programming languages and custom themes, as well as integrating with cloud storage services like Google Drive or Dropbox.
